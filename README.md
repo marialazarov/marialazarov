@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Jr Full Stack Developer from Spain</h3>
 
 
-- ⭐ I’m currently working on [Frontend of Studio Tattoo](https://github.com/marialazarov/ProyectoBackendTatuajes)
+- ⭐ I’m currently working on [Frontend of Local Music App](https://github.com/marialazarov/ProyectoFinalWebFrontend)
 
 - 📚 I’m currently learning **React.JS**
 
