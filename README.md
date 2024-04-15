@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/maria-lázaro-b085b7252/" target="blank"><img align="center" src="https://www.linkedin.com/in/maria-l%C3%A1zaro-b085b7252/" alt="https://www.linkedin.com/in/maria-lázaro-b085b7252/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maria-lázaro-b085b7252/" target="blank"><img align="center" src="https://www.linkedin.com/in/maria-l%C3%A1zaro-b085b7252/" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
