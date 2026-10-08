@@ -1,14 +1,14 @@
-<h1 align="center">Hi ☺️, I'm María Lázaro</h1>
-<h3 align="center">Passionate Jr Full Stack Developer from Spain</h3>
+<h1 align="center"> María Lázaro</h1>
+<h3 align="center">passionate junior developer from spain</h3>
 
 
-- ⭐ I’m currently working on [Frontend of Local Music App](https://github.com/marialazarov/ProyectoFinalWebFrontend)
+- ⭐ i’m currently working on [Frontend of Local Music App](https://github.com/marialazarov/ProyectoFinalWebFrontend)
 
-- 📚 I’m currently learning **JavaScript**
+- 📚 i’m currently learning **JavaScript**
 
-- 💻 All of my projects are available at [https://github.com/marialazarov](https://github.com/marialazarov)
+- 💻 all of my projects are available at [https://github.com/marialazarov](https://github.com/marialazarov)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maria-lázaro-b085b7252/" target="blank"><img align="center" src="https://www.linkedin.com/in/maria-l%C3%A1zaro-b085b7252/" alt="" height="30" width="40" /></a>
 </p>
