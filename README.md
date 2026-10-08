@@ -4,7 +4,7 @@
 
 - ⭐ I’m currently working on [Frontend of Local Music App](https://github.com/marialazarov/ProyectoFinalWebFrontend)
 
-- 📚 I’m currently learning **React.JS**
+- 📚 I’m currently learning **JavaScript**
 
 - 💻 All of my projects are available at [https://github.com/marialazarov](https://github.com/marialazarov)
 
