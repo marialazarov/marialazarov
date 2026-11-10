@@ -2,7 +2,7 @@
 <h3 align="center">passionate junior developer from spain</h3>
 
 
-- ⭐ i’m currently working on [Frontend of Local Music App](https://github.com/marialazarov/ProyectoFinalWebFrontend)
+- ⭐ i’m currently working on [Poster Boy Artist Web](https://github.com/marialazarov/PosterBoyweb)
 
 - 📚 i’m currently learning **JavaScript**
 
